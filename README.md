@@ -18,7 +18,7 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 I'm a **full-stack software engineer**, **AI automation engineer**, and **product builder** passionate about designing technology that solves real operational problems.
 
@@ -35,7 +35,7 @@ My work combines:
 
 ---
 
-# 🧪 Currently Building
+#  Currently Building
 
 ### 🚀 CMR Labs
 
@@ -140,10 +140,10 @@ Modern Hospitality SaaS
 
 | Project | Description |
 |---------|-------------|
-| 🧪 **CMR Labs** | AI agents, automation platforms and SaaS development |
-| 🏨 **CMR Hospitality Suite** | AI-powered hotel management platform |
-| 🤖 **Automation Systems** | Intelligent workflow automation for businesses |
-| 🌍 **Digital Infrastructure** | Modern software systems for scalable operations |
+|  **CMR Labs** | AI agents, automation platforms and SaaS development |
+|  **CMR Hospitality Suite** | AI-powered hotel management platform |
+|  **Automation Systems** | Intelligent workflow automation for businesses |
+|  **Digital Infrastructure** | Modern software systems for scalable operations |
 
 ---
 
